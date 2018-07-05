@@ -1,0 +1,17 @@
+{
+  "name": "progress-bar",
+  "version": "1.0.0",
+  "description": "a progress bar tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "progress"
+  ],
+  "author": "themis",
+  "license": "ISC",
+  "dependencies": {
+    "single-line-log": "^1.1.2"
+  }
+}
